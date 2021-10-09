@@ -1,0 +1,9 @@
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\LAB5OGR1\Desktop\3 sayının ortalaması\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\LAB5OGR1\Desktop\3 sayının ortalaması\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\LAB5OGR1\Desktop\3 sayının ortalaması\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
