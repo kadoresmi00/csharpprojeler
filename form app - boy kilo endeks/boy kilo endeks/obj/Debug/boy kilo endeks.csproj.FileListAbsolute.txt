@@ -1,0 +1,10 @@
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\bin\Debug\boy kilo endeks.exe.config
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\bin\Debug\boy kilo endeks.exe
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\bin\Debug\boy kilo endeks.pdb
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\obj\Debug\boy kilo endeks.csproj.AssemblyReference.cache
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\obj\Debug\boy_kilo_endeks.Form1.resources
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\obj\Debug\boy_kilo_endeks.Properties.Resources.resources
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\obj\Debug\boy kilo endeks.csproj.GenerateResource.cache
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\obj\Debug\boy kilo endeks.csproj.CoreCompileInputs.cache
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\obj\Debug\boy kilo endeks.exe
+C:\Users\Kado\source\repos\boy kilo endeks\boy kilo endeks\obj\Debug\boy kilo endeks.pdb
