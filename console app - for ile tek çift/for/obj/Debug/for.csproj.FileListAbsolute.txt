@@ -1,0 +1,6 @@
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for\for\bin\Debug\@for.exe.config
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for\for\bin\Debug\@for.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for\for\bin\Debug\@for.pdb
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for\for\obj\Debug\@for.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for\for\obj\Debug\@for.pdb
