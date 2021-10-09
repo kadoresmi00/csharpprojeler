@@ -1,0 +1,10 @@
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\bin\Debug\etiket fiyat indirim.exe.config
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\bin\Debug\etiket fiyat indirim.exe
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\bin\Debug\etiket fiyat indirim.pdb
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\obj\Debug\etiket fiyat indirim.csproj.AssemblyReference.cache
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\obj\Debug\etiket_fiyat_indirim.Form1.resources
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\obj\Debug\etiket_fiyat_indirim.Properties.Resources.resources
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\obj\Debug\etiket fiyat indirim.csproj.GenerateResource.cache
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\obj\Debug\etiket fiyat indirim.csproj.CoreCompileInputs.cache
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\obj\Debug\etiket fiyat indirim.exe
+C:\Users\Kado\source\repos\etiket fiyat indirim\etiket fiyat indirim\obj\Debug\etiket fiyat indirim.pdb
