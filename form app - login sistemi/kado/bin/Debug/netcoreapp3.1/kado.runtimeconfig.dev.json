@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\KadoMedia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\KadoMedia\\.nuget\\packages"
+    ]
+  }
+}
