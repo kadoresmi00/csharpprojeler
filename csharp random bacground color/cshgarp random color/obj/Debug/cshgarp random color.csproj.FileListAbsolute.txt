@@ -1,0 +1,10 @@
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\bin\Debug\cshgarp random color.exe.config
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\bin\Debug\cshgarp random color.exe
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\bin\Debug\cshgarp random color.pdb
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\obj\Debug\cshgarp random color.csproj.AssemblyReference.cache
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\obj\Debug\cshgarp_random_color.Form1.resources
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\obj\Debug\cshgarp_random_color.Properties.Resources.resources
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\obj\Debug\cshgarp random color.csproj.GenerateResource.cache
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\obj\Debug\cshgarp random color.csproj.CoreCompileInputs.cache
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\obj\Debug\cshgarp random color.exe
+C:\Users\Kado\source\repos\cshgarp random color\cshgarp random color\obj\Debug\cshgarp random color.pdb
