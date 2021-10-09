@@ -1,0 +1,10 @@
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\bin\Debug\lamba sistem raporu.exe.config
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\bin\Debug\lamba sistem raporu.exe
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\bin\Debug\lamba sistem raporu.pdb
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\obj\Debug\lamba sistem raporu.csproj.AssemblyReference.cache
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\obj\Debug\lamba_sistem_raporu.Form1.resources
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\obj\Debug\lamba_sistem_raporu.Properties.Resources.resources
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\obj\Debug\lamba sistem raporu.csproj.GenerateResource.cache
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\obj\Debug\lamba sistem raporu.csproj.CoreCompileInputs.cache
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\obj\Debug\lamba sistem raporu.exe
+C:\Users\Kado\source\repos\lamba sistem raporu\lamba sistem raporu\obj\Debug\lamba sistem raporu.pdb
