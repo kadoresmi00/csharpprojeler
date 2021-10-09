@@ -1,0 +1,15 @@
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\LAB5OGR1\Desktop\boy kilo ortalama\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\LAB5OGR1\Desktop\boy kilo ortalama\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\LAB5OGR1\Desktop\boy kilo ortalama\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\LAB5OGR1\Desktop\boy kilo ortalama\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LAB5OGR1\Desktop\boy kilo ortalama\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\LAB5OGR1\Desktop\boy kilo ortalama\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\LAB5OGR1\Desktop\login sytem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\LAB5OGR1\Desktop\login sytem\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\LAB5OGR1\Desktop\login sytem\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
