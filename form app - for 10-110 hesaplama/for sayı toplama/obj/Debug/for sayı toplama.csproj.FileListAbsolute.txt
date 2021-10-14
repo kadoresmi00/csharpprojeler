@@ -1,0 +1,20 @@
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\bin\Debug\for sayı toplama.exe.config
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\bin\Debug\for sayı toplama.exe
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\bin\Debug\for sayı toplama.pdb
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\obj\Debug\for sayı toplama.csproj.AssemblyReference.cache
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\obj\Debug\for_sayı_toplama.Form1.resources
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\obj\Debug\for_sayı_toplama.Properties.Resources.resources
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\obj\Debug\for sayı toplama.csproj.GenerateResource.cache
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\obj\Debug\for sayı toplama.csproj.CoreCompileInputs.cache
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\obj\Debug\for sayı toplama.exe
+C:\Users\Kado\source\repos\for sayı toplama\for sayı toplama\obj\Debug\for sayı toplama.pdb
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\bin\Debug\for sayı toplama.exe.config
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\bin\Debug\for sayı toplama.exe
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\bin\Debug\for sayı toplama.pdb
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\obj\Debug\for sayı toplama.csproj.AssemblyReference.cache
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\obj\Debug\for_sayı_toplama.Form1.resources
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\obj\Debug\for_sayı_toplama.Properties.Resources.resources
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\obj\Debug\for sayı toplama.csproj.GenerateResource.cache
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\obj\Debug\for sayı toplama.csproj.CoreCompileInputs.cache
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\obj\Debug\for sayı toplama.exe
+C:\Users\Kado\Desktop\form app - for 10-110 hesaplama\for sayı toplama\obj\Debug\for sayı toplama.pdb
