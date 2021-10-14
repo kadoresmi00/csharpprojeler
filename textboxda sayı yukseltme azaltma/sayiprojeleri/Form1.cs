@@ -20,15 +20,15 @@ namespace sayiprojeleri
         private void button1_Click(object sender, EventArgs e)
         {
             int kado = Convert.ToInt32(textBox1.Text);
-            int toplam = kado-=1;
-            textBox1.Text = toplam.ToString();
+            kado-=1;
+            textBox1.Text = kado.ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             int kado = Convert.ToInt32(textBox1.Text);
-            int toplam = kado += 1;
-            textBox1.Text = toplam.ToString();
+            kado += 1;
+            textBox1.Text = kado.ToString();
         }
     }
 }
