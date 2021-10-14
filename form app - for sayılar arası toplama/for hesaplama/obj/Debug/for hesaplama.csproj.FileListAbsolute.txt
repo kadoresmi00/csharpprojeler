@@ -1,0 +1,8 @@
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for hesaplama\for hesaplama\bin\Debug\for hesaplama.exe.config
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for hesaplama\for hesaplama\bin\Debug\for hesaplama.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for hesaplama\for hesaplama\bin\Debug\for hesaplama.pdb
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for hesaplama\for hesaplama\obj\Debug\for_hesaplama.Form1.resources
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for hesaplama\for hesaplama\obj\Debug\for_hesaplama.Properties.Resources.resources
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for hesaplama\for hesaplama\obj\Debug\for hesaplama.csproj.GenerateResource.Cache
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for hesaplama\for hesaplama\obj\Debug\for hesaplama.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\for hesaplama\for hesaplama\obj\Debug\for hesaplama.pdb
