@@ -1,0 +1,8 @@
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\civciv\civciv\bin\Debug\civciv.exe.config
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\civciv\civciv\bin\Debug\civciv.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\civciv\civciv\bin\Debug\civciv.pdb
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\civciv\civciv\obj\Debug\civciv.Form1.resources
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\civciv\civciv\obj\Debug\civciv.Properties.Resources.resources
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\civciv\civciv\obj\Debug\civciv.csproj.GenerateResource.Cache
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\civciv\civciv\obj\Debug\civciv.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\civciv\civciv\obj\Debug\civciv.pdb
