@@ -1,0 +1,8 @@
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\TamVeCIftSayılarToplamı\TamVeCIftSayılarToplamı\bin\Debug\TamVeCIftSayılarToplamı.exe.config
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\TamVeCIftSayılarToplamı\TamVeCIftSayılarToplamı\bin\Debug\TamVeCIftSayılarToplamı.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\TamVeCIftSayılarToplamı\TamVeCIftSayılarToplamı\bin\Debug\TamVeCIftSayılarToplamı.pdb
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\TamVeCIftSayılarToplamı\TamVeCIftSayılarToplamı\obj\Debug\TamVeCIftSayılarToplamı.Form1.resources
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\TamVeCIftSayılarToplamı\TamVeCIftSayılarToplamı\obj\Debug\TamVeCIftSayılarToplamı.Properties.Resources.resources
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\TamVeCIftSayılarToplamı\TamVeCIftSayılarToplamı\obj\Debug\TamVeCIftSayılarToplamı.csproj.GenerateResource.Cache
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\TamVeCIftSayılarToplamı\TamVeCIftSayılarToplamı\obj\Debug\TamVeCIftSayılarToplamı.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\TamVeCIftSayılarToplamı\TamVeCIftSayılarToplamı\obj\Debug\TamVeCIftSayılarToplamı.pdb
