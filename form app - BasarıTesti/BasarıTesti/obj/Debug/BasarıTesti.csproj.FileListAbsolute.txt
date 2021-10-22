@@ -1,0 +1,9 @@
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\BasarıTesti\BasarıTesti\bin\Debug\BasarıTesti.exe.config
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\BasarıTesti\BasarıTesti\obj\Debug\BasarıTesti.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\BasarıTesti\BasarıTesti\obj\Debug\BasarıTesti.Form1.resources
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\BasarıTesti\BasarıTesti\obj\Debug\BasarıTesti.Properties.Resources.resources
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\BasarıTesti\BasarıTesti\obj\Debug\BasarıTesti.csproj.GenerateResource.Cache
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\BasarıTesti\BasarıTesti\bin\Debug\BasarıTesti.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\BasarıTesti\BasarıTesti\bin\Debug\BasarıTesti.pdb
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\BasarıTesti\BasarıTesti\obj\Debug\BasarıTesti.exe
+c:\users\lab5ogr1\documents\visual studio 2012\Projects\BasarıTesti\BasarıTesti\obj\Debug\BasarıTesti.pdb
